@@ -1,0 +1,21 @@
+/* Navbar.css */
+
+
+
+.nav-item {
+  list-style: none;
+}
+
+.navbar-brand {
+  /* Your existing styles for the navbar-brand */
+  text-decoration: none;
+  color: #333; /* Adjust the text color as needed */
+}
+
+.navbar-brand.active {
+  /* Styles for the active state */
+  color: #007bff; /* Adjust the active text color */
+  border-bottom: 2px solid #007bff; /* Add an underline for the active state */
+}
+
+/* Add any other styles as needed */
